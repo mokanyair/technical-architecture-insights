@@ -1,0 +1,46 @@
+# Enterprise Technology Architecture
+
+Technical research, architecture reviews, and engineering perspectives
+on enterprise infrastructure, cloud, AI infrastructure, platform
+engineering, automation, and emerging technologies.
+
+## About This Repository
+
+This repository documents my ongoing technical research and architecture
+perspectives developed from hands-on enterprise infrastructure,
+cloud, automation, and platform engineering experience.
+
+The objective is to connect established enterprise engineering principles
+with emerging technologies and explore how organizations can adopt them
+securely, reliably, and economically.
+
+## Published Articles
+
+### 001 — The Enterprise Landing Zone in the AI Era
+
+**Rethinking Cloud Foundations Across AWS, Azure, and Google Cloud**
+
+AI does not replace the enterprise landing zone. It expands what the
+landing zone must govern.
+
+[Read Article](articles/001-enterprise-landing-zone-ai-era/README.md)
+
+---
+
+## Research Areas
+
+- Enterprise Cloud Architecture
+- AI Infrastructure
+- GPU & HPC Architecture
+- Platform Engineering
+- Hybrid Cloud
+- Infrastructure Automation
+- FinOps
+- Enterprise Storage & Networking
+- Infrastructure Security
+
+## Author
+
+Morgan Okanya
+
+Enterprise Infrastructure | Cloud | Platform Engineering | AI Infrastructure
